@@ -1,4 +1,3 @@
-/* App.css */
 body,
 html {
   margin: 0;
@@ -87,7 +86,6 @@ html {
   z-index: 100;
   user-select: none;
 
-  /* slide, fade, and fling-back */
   transition:
     transform 0.9s ease,
     opacity 0.9s ease,
@@ -134,7 +132,7 @@ html {
 
 .plate-panel.hidden-during-fling {
   opacity: 0 !important;
-  pointer-events: none; /* disable interactions while hidden */
+  pointer-events: none;
 }
 .plate-panel.hidden-during-fling {
   opacity: 0 !important;
