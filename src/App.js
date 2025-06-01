@@ -1,4 +1,4 @@
-// App.js
+// Somehow clumped all this into one .js script
 import React, { useCallback, useState, useEffect, useRef } from 'react';
 import { useDropzone } from 'react-dropzone';
 import * as tmImage from '@teachablemachine/image';
