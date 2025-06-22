@@ -1,5 +1,6 @@
 # To test the program
-there are 3 ready-to-go messy folders to play around with, these folders can befound in the "Test Folders" Folder
+there are 3 ready-to-go messy folders to play around with, these folders can befound in the "Test Folders" Folder.
+The project can be viewed directly from https://smart-sort-ai.vercel.app/
 
 ## Plate Feature
 The plate feature allows you to stack multiple messy folders and then feed them into the main dropzone, acting as a singular united folder. Simply click on the "Show Plate" button on the top left.
